@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 08 01:41:49 MSK 2026
+@default-igniterealtime-https\://igniterealtime.org/archiva/repository/maven/.lastUpdated=1775601708759
+https\://igniterealtime.org/archiva/repository/maven/.error=Could not transfer artifact org.igniterealtime.openfire.plugins\:search\:jar\:openfire-plugin-assembly\:1.7.5 from/to igniterealtime (https\://igniterealtime.org/archiva/repository/maven/)\: transfer failed for https\://igniterealtime.org/archiva/repository/maven/org/igniterealtime/openfire/plugins/search/1.7.5/search-1.7.5-openfire-plugin-assembly.jar
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1775601709681

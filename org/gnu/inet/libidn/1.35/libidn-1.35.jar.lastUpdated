@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 07 23:13:17 MSK 2026
+@default-igniterealtime-https\://igniterealtime.org/archiva/repository/maven/.lastUpdated=1775592797739
+https\://igniterealtime.org/archiva/repository/maven/.error=Could not transfer artifact org.gnu.inet\:libidn\:jar\:1.35 from/to igniterealtime (https\://igniterealtime.org/archiva/repository/maven/)\: GET request of\: org/gnu/inet/libidn/1.35/libidn-1.35.jar from igniterealtime failed
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1775588948975

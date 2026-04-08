@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 08 01:50:15 MSK 2026
+tinder-2.1.0.jar>central=
+tinder-2.1.0.pom>central=
+tinder-2.1.0.pom>igniterealtime=
